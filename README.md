@@ -1,1 +1,1 @@
-# cas
+# A Small Computer Algebra System
